@@ -1,0 +1,24 @@
+D:\UST\day 4\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.AssemblyReference.cache
+D:\UST\day 4\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.SuggestedBindingRedirects.cache
+D:\UST\day 4\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+D:\UST\day 4\AccountApp\AccountApp\bin\Debug\AccountApp.exe.config
+D:\UST\day 4\AccountApp\AccountApp\bin\Debug\AccountApp.exe
+D:\UST\day 4\AccountApp\AccountApp\bin\Debug\AccountApp.pdb
+D:\UST\day 4\AccountApp\AccountApp\obj\Debug\AccountApp.exe
+D:\UST\day 4\AccountApp\AccountApp\obj\Debug\AccountApp.pdb
+D:\UST\day5\AccountApp\AccountApp\bin\Debug\AccountApp.exe.config
+D:\UST\day5\AccountApp\AccountApp\bin\Debug\AccountApp.exe
+D:\UST\day5\AccountApp\AccountApp\bin\Debug\AccountApp.pdb
+D:\UST\day5\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.AssemblyReference.cache
+D:\UST\day5\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.SuggestedBindingRedirects.cache
+D:\UST\day5\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+D:\UST\day5\AccountApp\AccountApp\obj\Debug\AccountApp.exe
+D:\UST\day5\AccountApp\AccountApp\obj\Debug\AccountApp.pdb
+D:\UST\day6\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.AssemblyReference.cache
+D:\UST\day6\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.SuggestedBindingRedirects.cache
+D:\UST\day6\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+D:\UST\day6\AccountApp\AccountApp\obj\Debug\AccountApp.exe
+D:\UST\day6\AccountApp\AccountApp\obj\Debug\AccountApp.pdb
+D:\UST\day6\AccountApp\AccountApp\bin\Debug\AccountApp.exe.config
+D:\UST\day6\AccountApp\AccountApp\bin\Debug\AccountApp.exe
+D:\UST\day6\AccountApp\AccountApp\bin\Debug\AccountApp.pdb

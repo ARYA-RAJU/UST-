@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{661D58E9-7C5F-4706-AC17-A47733A3D96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661D58E9-7C5F-4706-AC17-A47733A3D96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661D58E9-7C5F-4706-AC17-A47733A3D96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661D58E9-7C5F-4706-AC17-A47733A3D96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661D58E9-7C5F-4706-AC17-A47733A3D96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DCE88B2-97D2-4C0B-BD9D-336E54046D1E}
+	EndGlobalSection
+EndGlobal

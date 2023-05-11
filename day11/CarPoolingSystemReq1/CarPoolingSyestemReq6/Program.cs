@@ -24,7 +24,7 @@ namespace CarPoolingSyestemReq6
 
     };
 
-            var cars = new List<Car>()
+     var cars = new List<Car>()
 
     {
 
@@ -36,7 +36,7 @@ namespace CarPoolingSyestemReq6
 
       new Car { Id = 4, Model = "kwid", Name = "lxi", MakeYear = 2010, Company = "Renault", comfortLevel = 5}};
 
-            var memberCars = new List<MemberCar>()
+     var memberCars = new List<MemberCar>()
 
     {
 

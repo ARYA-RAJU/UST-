@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+    <style>
+    body{  
+        font-family: Calibri, Helvetica, sans-serif;  
+        background-color:lightblue;  
+      }   
+    div {
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+       } 
+      </style>  
+</head>
+<body >
+<center><h1><b>Registration Form</b></h1></center><br>
+    <div>
+    <label for="fname"><b>First Name:</b></label>
+    <input type="text" id="fname" name="fname"><br><br>
+    
+    <label for="lname"><b>Last Name:</b></label>
+    <input type="text" id="lname" name="lname"><br><br>
+    
+    <label for="course"><b>Course</b></label><br><br>
+    <select>
+        <option>BCA</option>
+        <option>MCA</option>
+        <option>BTech</option>
+        <option>Mtech</option>
+    </select>
+    <br><br>
+    <label for="gender"><b>Gender:</b></label><br>
+    <input type="radio" id="male" name="fav" value="Male">
+    <label for="male">Male</label><br>
+    <input type="radio" id="female" name="fav" value="Female">
+    <label for="female">Female</label><br>
+    <input type="radio" id="other" name="fav" value="other">
+    <label for="other">Other</label>
+    <br><br>
+    <label for="hobbies"><b>Hobbies:</b></label><br>
+    <input type="checkbox" id="programming" name="fav1" value="programming">
+    <label for="programming">Programming</label><br>
+    <input type="checkbox" id="cricket" name="fav1" value="cricket">
+    <label for="cricket">Cricket</label><br>
+    <input type="checkbox" id="football" name="fav1" value="football">
+    <label for="football">Football</label><br>
+    <input type="checkbox" id="read" name="fav" value="read">
+    <label for="read">Reading Novel</label>
+    <br><br>
+    <label for="phone"><b>Phone</b></label>
+    <input type="text" id="phone" name="phone" >
+    <br><br>
+    <label for="address"><b>Address</b></label><br>
+    <textarea rows="5" cols="40" value="address"></textarea><br><br>
+    <label for="email"><b>Email:</b></label>
+    <input type="email" id="email" name="email"><br><br>
+    <label for="Password"><b>Password:</b></label>
+    <input type="Password" id="pass" name="pass"> <br>  
+    <br><br>
+    <input type="submit" value="Submit">    
+    <input type="reset" value="Reset">  
+    </div>div>
+</body>
+</html>

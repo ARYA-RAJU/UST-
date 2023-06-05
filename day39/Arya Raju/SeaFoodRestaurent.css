@@ -1,0 +1,119 @@
+body {
+  font-family:Arial, Helvetica, sans-serif;
+}
+.navbar {
+  background-color: #000;
+  color: #fff;
+}
+
+.navbar .navbar-brand {
+  color: #fff;
+  font-family: cursive;
+}
+.navbar li a{
+  color: white;
+  font-family: cursive;
+}
+.jumbotron {
+  background-image: url("images/img.png");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 182px 0;
+  margin-bottom: 0;
+  font-family: cursive;
+}
+
+.jumbotron h1 {
+  font-size: 48px;
+  font-weight: bold;
+  font-family: cursive;
+  color: white;
+}
+
+.jumbotron p {
+  font-size: 24px;
+  margin-bottom: 40px;
+  font-family: cursive;
+  color: white;
+}
+
+.feature {
+  padding: 82px 0;
+  background-color: #f8f9fa;
+  text-align: center;
+}
+
+.feature h2 {
+  font-size: 36px;
+  margin-bottom: 30px;
+  font-family: cursive;
+}
+
+.feature p {
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  border-top-left-radius:5px;
+  border-top-right-radius: 5px;
+}
+
+.card-body {
+  padding: 20px;
+  font-family: cursive;
+}
+
+.card-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-family: cursive;
+}
+
+.card-text {
+  font-size: 5px;
+  margin-bottom: 20px;
+}
+.py-5{
+  background-image: url("images/img7.png");
+  color: white;
+  background-size: cover;
+  background-position: center;
+  text-align: left;
+  padding: 150px 0;
+  margin-bottom: 0;;
+  font-family: cursive;
+}
+.py-6
+{
+  font-family: cursive;
+}
+
+body{
+  background-image: url("images/img8.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+.form{
+  width: 500px; 
+  height: 562px;
+  margin-left: 200px;
+  margin-top: 43px;
+  background-color: white;
+  color:black;
+  border-radius: 20px;
+  font-family: cursive;
+}
+.form-block{
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+}

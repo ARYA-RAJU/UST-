@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    
+  </head>
+  <body>
+      
+      <button onclick="reverse()">reverse</button>
+      <script>
+      function reverse(){
+        let num=prompt("enter the number");
+        let a=num;
+        let rev=0;
+        while(num>0)
+        {
+        let n=num%10;
+        rev=rev*10+n;
+        num=parseInt(num/10);
+        }
+        alert(`reverse of ${a} is ${rev}`);
+    }  
+    
+        </script>
+  </body>
+</html>
